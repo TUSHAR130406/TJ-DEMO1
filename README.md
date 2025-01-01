@@ -1,2 +1,2 @@
 # TJ-DEMO1
-first git repos
+THis is my first git repository.
